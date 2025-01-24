@@ -101,7 +101,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 # Fungsi utama untuk menjalankan bot
 def main():
-    TOKEN = "7548424575:AAG_49RK9lgh5d-bwXPZRHFWPdlN5mWCI6g"  # Ganti dengan token bot Anda
+    TOKEN = "7505654163:AAHzl2hJUnvHZLmjspqR23CSHlha77pBubI"  # Ganti dengan token bot Anda
 
     # Gunakan Application sebagai pengganti Updater
     application = Application.builder().token(TOKEN).build()
